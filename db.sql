@@ -28,6 +28,7 @@ CREATE TABLE partidas (
 );
 
 INSERT INTO times (nome, cidade) VALUES
+
 ('Cruzeiro', 'Belo Horizonte'),
 ('Grêmio', 'Porto Alegre'),
 ('Corinthians', 'São Paulo');
